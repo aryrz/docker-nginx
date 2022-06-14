@@ -6,4 +6,6 @@ docker-compose up -d
 ```
 
 ### verification
+```
 curl -H "Host: harz.local" localhost
+```
